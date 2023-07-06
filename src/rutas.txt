@@ -1,0 +1,17 @@
+https://api.rawg.io/api/platforms?key=fd9e97581013433790aac899770e6d05
+
+https://api.rawg.io/api/genres?key=fd9e97581013433790aac899770e6d05
+
+https://api.rawg.io/api/games/1030?key=fd9e97581013433790aac899770e6d05
+
+https://api.rawg.io/api/games?key=fd9e97581013433790aac899770e6d05&search=halo
+
+
+
+
+stores:
+https://www.google.com/search?q=
+
+https://www.xbox.com/es-ES/games
+
+https://store.playstation.com/es-co/pages/latest
